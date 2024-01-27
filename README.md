@@ -1,4 +1,4 @@
 # OyunGelistirmeOdev
 # Yasin BÖLÜKBAŞI 02215076004
-# Nurullah
-# Mücahit yassıkaya 02180201002 
+# Nurullah KOCAASLAN 02205076055
+# Mücahit YASSIKAYA 02180201002 
